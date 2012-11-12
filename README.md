@@ -6,7 +6,7 @@ This plugin renders a table of contents for a given section of the document.
 
 ## Example
 
-See "example.html".
+See `example.html`.
 
 ## Usage
 
@@ -57,4 +57,5 @@ See "example.html".
 
 ## Requirements
 
-jQuery 1.8
+* jQuery 1.8
+* jQuery Selection plugin
