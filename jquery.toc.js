@@ -60,7 +60,7 @@
                     "click": function() {
                         $('html, body').animate({
                             "scrollTop": chapter.offset().top
-                        });
+                        }, 2000, "swing");
                     }
                 });
 
